@@ -24,7 +24,7 @@ specificYearlyTurnover,Specific Yearly Turnover,Applicable to specificAverageTur
 setupOfEconomicOperator,Setup Of Economic Operator,Applicable to setupOfEconomicOperatorGeneral Requirement Group
 setupOfEconomicOperator,Setup Of Economic Operator,Applicable to setupOfEconomicOperatorSpecific Requirement Group
 financialRatio,Financial Ratio,Applicable to financialRatio criterion
-theInsuredAmountInItsProfessionalRiskIndemnityInsuranceThe Insured Amount In Its Professional Risk Indemnity Insurance,Applicable to professionalRiskInsurance criterion
+theInsuredAmountInItsProfessionalRiskIndemnityInsurance,The Insured Amount In Its Professional Risk Indemnity Insurance,Applicable to professionalRiskInsurance criterion
 company,Company,Applicable to informationOnManagerailStaff and candidate and employer Requirement Groups
 project,Project,Applicable to informationOnManagerailStaff and candidate and employer Requirement Groups
 position,Position,Applicable to informationOnManagerailStaff and candidate Requirement Groups
@@ -47,7 +47,7 @@ number,Number,Applicable to equipmentCapacity and manufacturingCapacity Requirem
 model,Model,Applicable to equipmentCapacity and manufacturingCapacity Requirement Groups
 yearOfManufacture,Year Of Manufacture,Applicable to equipmentCapacity Requirement Group
 capacity,Capacity,Applicable to equipmentCapacity and manufacturingCapacity Requirement Groups
-"source,Source,Applicable to equipmentCapacity and manufacturingCapacity Requirement Groups. The following abbreviation shall be used: O � owned; R � rented; L- leased; SM � specially manufactured"
+source,Source,Applicable to equipmentCapacity and manufacturingCapacity Requirement Groups. The following abbreviation shall be used: O - owned; R - rented; L- leased; SM - specially manufactured
 currentLocation,Current Location,Applicable to equipmentCapacity Requirement Group
 detailsOfCurrentCommitments,Details Of Current Commitments,Applicable to equipmentCapacity and manufacturingCapacity Requirement Groups
 nameOfOwner,Name Of Owner,Applicable to equipmentCapacity and manufacturingCapacity Requirement Groups
