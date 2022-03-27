@@ -1,4 +1,12 @@
 Code,Title,Description
+amount,Amount,Applicable to paymentOfTaxes and paymentOfSocialSecurityContributions Criteria (all Requirement Groups)
+howEstablished,How Established,Applicable to paymentOfTaxes and paymentOfSocialSecurityContributions Criteria (all Requirement Groups)
+finalDecisionOrNot,Final Decision or not,Applicable to paymentOfTaxes and paymentOfSocialSecurityContributions Criteria (all Requirement Groups)
+dateOfConviction,Date Of Conviction,Applicable to all Criteria fro ESPD Part III Exclusion Grounds (all Requirement Groups)
+lengthOfThePeriodOfExclusion,Length Of The Period Of Exclusion,Applicable to paymentOfTaxes and paymentOfSocialSecurityContributions Criteria (all Requirement Groups)
+reason,Reason,Applicable to Criteria from ESPD Part III A (Exlusion Grounds) (all Requirement Groups)
+whoHasBeenConvicted,Who Has Been Convicted,Applicable to Criteria from ESPD Part III A (Exlusion Grounds) (all Requirement Groups)
+isThisInformationAvailableElectronically,Is This Information Available Electronically,Applicable to Criteria from ESPD Part III A (Exlusion Grounds) (all Requirement Groups)
 generalTurnoverForYear1,General Turnover for year 1,Applicable to generalYearlyTurnoverForBidder Requirement Group
 generalTurnoverForYear1InStateCurrency,General Turnover for year 1 in State Currency,Applicable to generalYearlyTurnoverForBidder Requirement Group
 generalTurnoverForYear2,General Turnover for year 2,Applicable to generalYearlyTurnoverForBidder Requirement Group
