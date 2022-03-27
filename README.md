@@ -1,3 +1,14 @@
+# Description
+
+This Extension is proposed for Public Procurement Systems based on EU Laws and Esuropean Single Procurement Document (ESPD). This Extension allows to maintain ESPD Parts III and IV, Exclusion Grounds and Selection Criteria. This can be used in countries in full accordance with EU Procurement Laws, bu also in countries, where these Laws are not fully implemented (it can change Requirements). Main approach - the Requirements Extension is selected due to use of this model (Criterion -> Requirement Group -> Requirements) in European Bank for Reconstruction and Development digital tools, which are intended to monitor Tender procedures automatically and keep procedures transparent. This does not allow to use ESPD model directly, as it has two additional nested lewels, which can't be parsed in existring tools architecture.
+
+This leads to use Requirement Extension, based on CCCEV model (see below) as framework, ESPD Parts III and IV, Exclusion Grounds and Selection Criteria combined. In this case, all required information can be stored and handled easily. All Criteria and Requirement Groups are taken from ESPD Parts III and IV, Exclusion Grounds and Selection Criteria parts. Requirements are proposed on the basis on NEPCO-JONEPS system (https://github.com/EBRD-Open-Government-Lab-Kyiv/nepco_qualification_requirements) and ESPD document, but its not mandatory to use Requirements from NEPCO-JONEPS system here, also list can be extended. It can be created on the basis on current EU Laws or current Public Procurements systems. Also Requirements can be transferred from Requirements Groups (as well as Requirement Groups can be taken from Criteria list) in case of absence.
+
+Full model in table view with all connections is presented in Standard Bidding Document folder, in Excel file.
+
+This approach allows to use existing EBRD digital tools for Tender monitoring for EU countries and Procurement Systems, where ESPD and corresponding Laws are fully implemented. The main difference with existing Requirements Extension is mandatory naming for Criteria, Requirement Groups, presented in corresponding codelists.
+
+
 # Requirements
 
 The requirements extension is based on the EU's [Core Criterion and Core Evidence Vocabulary (CCCEV)](https://joinup.ec.europa.eu/node/153001) model for communicating criteria and responses.
@@ -105,7 +116,7 @@ Below is an example of requirements specified against both an item and a bidder 
               },
               {
                 "id": "0002-002-02",
-                "title": "Professional qualifications :",
+                "title": "Professional qualificationsÂ :",
                 "description": "list professional qualification relevant to the Contract and the proposed position",
                 "dataType": "string",
                 "expectedValue": "related qualifications"
