@@ -1,0 +1,64 @@
+Code,Title,Description
+participationInCriminalOrganization,Participation in a criminal organisation,ESPD Section III Exclusion Grounds Part A Grounds Relating To Criminal Convictions
+corruption,Corruption,ESPD Section III Exclusion Grounds Part A Grounds Relating To Criminal Convictions
+fraud,Fraud,ESPD Section III Exclusion Grounds Part A Grounds Relating To Criminal Convictions
+terroristOffencesOrOffencesLinkedToTerroristActivities,Terrorist offences or offences linked to terrorist activities,ESPD Section III Exclusion Grounds Part A Grounds Relating To Criminal Convictions
+moneyLaunderingOrTerroristFinancing,Money laundering or terrorist financing,ESPD Section III Exclusion Grounds Part A Grounds Relating To Criminal Convictions
+childLabourAndOtherFormsOfTraffickingInHumanBeings,Child labour and other forms of trafficking in human beings,ESPD Section III Exclusion Grounds Part A Grounds Relating To Criminal Convictions
+paymentOfTaxes,Payment of taxes,ESPD Section III Exclusion Grounds Part B Grounds Relating To The Payment Of Taxes Or Social Security Contributions
+paymentOfSocialSecurityContributions,Payment of social security contributions,ESPD Section III Exclusion Grounds Part B Grounds Relating To The Payment Of Taxes Or Social Security Contributions
+breachingOfObligationsInTheFieldsOfEnvironmentalLaw,Breaching of obligations in the fields of environmental law,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+breachingOfObligationsInTheFieldsOfSocialLaw,Breaching of obligations in the fields of social law,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+breachingOfObligationsInTheFieldsOfLabourLaw,Breaching of obligations in the fields of labour law,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+bankruptcy,Bankruptcy,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+insolvency,Insolvency,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+arrangementWithCreditors,Arrangement with creditors,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+analogousSituationLikeBankruptcyUnderNationalLaw,Analogous situation like bankruptcy under national law,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+assetsBeingAdministeredByLiquidator,Assets being administered by liquidator,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+businessActivitiesAreSuspended,Business activities are suspended,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+guiltyOfGraveProfessionalMisconduct,Guilty of grave professional misconduct,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+agreementsWithOtherEconomicOperatorsAimedAtDistortingCompetition,Agreements with other economic operators aimed at distorting competition,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+directOrIndirectInvolvementInThePreparationOfThisProcurementProcedure,Direct or indirect involvement in the preparation of this procurement procedure,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+earlyTerminationDamagesOrOtherComparableSanctions,Early termination damages or other comparable sanctions,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+guiltyOfMisinterpretationWithheldInformationUnableToProvideRequiredDocumentsAndObtainedConfidentialInformationOfThisProcedure,Guilty of misinterpretation withheld information unable to provide required documents and obtained confidential information of this procedure,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+purelyNationalExclusionGrounds,Purely national exclusion grounds,ESPD Section III Exclusion Grounds Part C Grounds Relating To Insolvency Conflicts Of Interests Or Professional Misconduct
+enrolmentInARelevantProfessionalRegister,Enrolment in a relevant professional register,ESPD Section IV Selection Criteria Suitability I
+enrolmentInATradeRegister,Enrolment in a trade register,ESPD Section IV Selection Criteria Suitability I
+forServiceContractsAuthorisationOfParticularOrganisationNeeded,For service contracts: authorisation of particular organisation needed,ESPD Section IV Selection Criteria Suitability II
+forServiceContractsMembershipOfParticularOrganisationNeeded,For service contracts: membership of particular organisation needed,ESPD Section IV Selection Criteria Suitability II
+generalYearlyTurnover,General Yearly Turnover,ESPD Section IV Selection Criteria General Yearly Turnover
+averageYearlyTurnover,Average Yearly Turnover,ESPD Section IV Selection Criteria Average Yearly Turnover
+otherEconomicOrFinancialRequirements,Other Economic Or Financial Requirements,ESPD Section IV Selection Criteria Other Economic Or Financial Requirements
+specificAverageTurnover,Specific Average Turnover,ESPD Section IV Selection Criteria Specific Average Turnover
+specificYearlyTurnover,Specific Yearly Turnover,ESPD Section IV Selection Criteria Specific Yearly Turnover
+setUpOfEconomicOperator,Set Up Of Economic Operator,ESPD Section IV Selection Criteria Set Up Of Economic Operator
+financialRatio,Financial Ratio,ESPD Section IV Selection Criteria Financial Ratio
+professionalRiskInsurance,Professional Risk Insurance,ESPD Section IV Selection Criteria Professional Risk Insurance
+numberOfManagerialStaff,Number Of Managerial Staff,ESPD Section IV Selection Criteria Abilities 5 (Staff)
+averageAnnualManpower,Average Annual Manpower,ESPD Section IV Selection Criteria Abilities 5 (Staff)
+educationalAndProfessionalQualifications,Educational And Professional Qualifications,ESPD Section IV Selection Criteria Abilities 3 (Education)
+toolsPlantOrTechnicalEquipment,Tools Plant Or Technical Equipment,ESPD Section IV Selection Criteria Abilities 2 (Facilities)
+technicalFacilitiesAndMeasuresForEnsuringQuality,Technical Facilities And Measures For Ensuring Quality,See ESPD Document for this criterion
+studyAndResearchFacilities,Study And Research Facilities,ESPD Section IV Selection Criteria Abilities 2 (Facilities)
+supplyChainManagement,Supply Chain Management,ESPD Section IV Selection Criteria Abilities 2 (Facilities)
+environmentalManagementMeasures,Environmental Management Measures,ESPD Section IV Selection Criteria Abilities 2 (Facilities)
+performanceOfTheSpecifiedType,Performance Of The Specified Type,ESPD Section IV Selection Criteria References
+forSupplyContractsCertificatesByQualityControlInstitutes,For Supply Contracts: Certificates By Quality Control Institutes,ESPD Section IV Selection Criteria Quality Assurance
+certificatesByIndependentBodiesAboutQualityAssuranceStandards,Certificates By Independent Bodies About Quality AssuranceStandards,ESPD Section IV Selection Criteria Quality Assurance
+certificatesByIndependentBodiesAboutEnvironmentalManagementSystemsOrStandards,Certificates By Independent Bodies About Environmental Management Systems Or Standards,ESPD Section IV Selection Criteria Quality Assurance
+allowanceOfChecks,Allowance Of Checks,ESPD Section IV Selection Criteria Checks
+techniciansOrTechnicalBodiesForQualityControl,Technicians or technical bodies for quality control,ESPD Section IV Selection Persons
+subcontractingProportion,Subcontracting proportion,ESPD Section IV Selection Criteria Subcontracting proportion
+forSupplyContractsSamplesDescriptionsOrPhotographsWithoutCertificationOfAuthenticity,For supply contracts: samples descriptions or photographs without certification of authenticity,ESPD Section IV Selection Criteria Samples Sertificates
+forSupplyContractsSamplesDescriptionsOrPhotographsWithCertificationOfAuthenticity,For supply contracts: samples descriptions or photographs with certification of authenticity,ESPD Section IV Selection Criteria Samples Sertificates
+eoIsAShelteredWorkshop,EO is a sheltered workshop,ESPD Section IV Selection Criteria Other
+eoRegisteredInAPQS,EO registered in a PQS,ESPD Section IV Selection Criteria Other
+eoTogetherWithOthers,EO together with others,ESPD Section IV Selection Criteria Other
+reliedOnEntities,Relied on entities,ESPD Section IV Selection Criteria Other
+notReliedOnEntities,Not Relied on entities,ESPD Section IV Selection Criteria Other
+lotsTheEOTendersTo,Lots the EO tenders to,ESPD Section IV Selection Criteria Other
+reductionOfTheNumberOfQualifiedCandidates,Reduction of the number of qualified candidates,ESPD Section IV Selection Criteria Other
+caLots,CA Lots,ESPD Section IV Selection Criteria Other
+eoSME,EO SME,ESPD Section IV Selection Criteria Other
+supplementaryEvidenceForProcurementProceduresRegulatedBy2009/81/ECDirective,Supplementary evidence for procurement procedures regulated by 2009/81/EC Directive,ESPD Section IV Selection Criteria Other Defence Selection
+supplementaryEvidenceForProcurementProceduresRegulatedBy2004/17/ECDirective,Supplementary evidence for procurement procedures regulated by 2004/17/EC Directive,ESPD Section IV Selection Criteria Other Utilities Selection
