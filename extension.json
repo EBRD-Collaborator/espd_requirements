@@ -6,7 +6,7 @@
     "en": "Adopts requirement extension on the basis of European Single Procurement Document Exclusion Ground and Selection Criteria sections to the tender object and responses sections to bids, awards and contracts. Based on the EU's Core Criterion and Core Evidence Vocabulary (CCCEV), European Single Procurement Document Selection Criteria."
   },
   "documentationUrl": {
-    "en": "https://github.com/EBRD-Collaborator/espd_requirements/"
+    "en": "https://github.com/EBRD-Open-Government-Lab-Kyiv/espd_requirements"
   },
   "compatibility": [
     "1.1"
