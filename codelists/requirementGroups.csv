@@ -11,7 +11,6 @@ generalYearlyTurnoverForJVCA,General Yearly Turnover For JVCA,Information on Tur
 financialInformationActualForPreviousYears,Financial Information Actual For Previous Years,Applicable for otherEconomicOrFinancialRequirements criterion
 financialInformationProjectedForTheNextTwoYears,Financial Information Projected For The Next Two Years,Applicable for otherEconomicOrFinancialRequirements criterion
 setupOfEconomicOperatorGeneral,Setup Of Economic Operator - General,Applicable to setUpOfEconomicOperator criterion
-setupOfEconomicOperatorSpecific,Setup Of Economic Operator -Specific,Applicable to setUpOfEconomicOperator criterion
 informationOnManagerailStaff,Information On Managerail Staff,Applicable to numberOfManagerialStaff criterion
 candidate,Candidate,Applicable to averageAnnualManpower criterion
 employer,Employer,Applicable to averageAnnualManpower criterion
