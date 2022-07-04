@@ -56,7 +56,7 @@ Below is an example of requirements specified against both an item and a bidder 
 ```json
 {
   "tender": {
-    "criteria": [
+    "criterion": [
       {
         "id": "0001",
         "title": "General yearly turnover",
@@ -156,60 +156,62 @@ Below is an example of requirements specified against both an item and a bidder 
 Below is an example of responses which meet the above requirements:
 
 ```json
-  "bids": {
-      "details": [
-        {
-          "id": "1",
-          "requirementResponses": [
-            {
-              "id": "T1",
-              "value": { # new type
-                "amount": 5541314.23,
-                "currency": "EUR"
-              },
-              "period": {
-                "startDate": "2013-04-03T00:00:00Z",
-                "endDate": "2014-04-03T00:00:00Z"
-              }
-              "requirement": {
-                "id": "T1",
-                "title": "FY 1"
-              }
-            },
-            {
-              "id": "T2",
-              "value": {
-                "amount": 9231341.00,
-                "currency": "EUR"
-              },
-              "period": {
-                "startDate": "2014-04-03T00:00:00Z",
-                "endDate": "2015-04-03T00:00:00Z"
-              }
-              "requirement": {
-                "id": "T2",
-                "title": "FY 2"
-              }
-            },
-            {
-              "id": "T3",
-              "value": {
-                "amount": 9941927.15,
-                "currency": "EUR"
-              },
-              "period": {
-                "startDate": "2015-04-03T00:00:00Z",
-                "endDate": "2016-04-03T00:00:00Z"
-              }
-              "requirement": {
-                "id": "T3",
-                "title": "FY 3"
-              }
-            }
-          ]
-        }
+  {
+   "bids":{
+      "details":[
+         {
+            "id":"1",
+            "requirementResponses":[
+               {
+                  "id":"T1",
+                  "value":{
+                     "amount":5541314.23,
+                     "currency":"EUR"
+                  },
+                  "period":{
+                     "startDate":"2013-04-03T00:00:00Z",
+                     "endDate":"2014-04-03T00:00:00Z"
+                  },
+                  "requirement":{
+                     "id":"T1",
+                     "title":"FY 1"
+                  }
+               },
+               {
+                  "id":"T2",
+                  "value":{
+                     "amount":9231341.00,
+                     "currency":"EUR"
+                  },
+                  "period":{
+                     "startDate":"2014-04-03T00:00:00Z",
+                     "endDate":"2015-04-03T00:00:00Z"
+                  },
+                  "requirement":{
+                     "id":"T2",
+                     "title":"FY 2"
+                  }
+               },
+               {
+                  "id":"T3",
+                  "value":{
+                     "amount":9941927.15,
+                     "currency":"EUR"
+                  },
+                  "period":{
+                     "startDate":"2015-04-03T00:00:00Z",
+                     "endDate":"2016-04-03T00:00:00Z"
+                  },
+                  "requirement":{
+                     "id":"T3",
+                     "title":"FY 3"
+                  }
+               }
+            ]
+         }
       ]
-    }
+   }
+}
 ```
 
 ## Further extensions
