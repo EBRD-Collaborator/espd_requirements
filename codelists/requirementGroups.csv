@@ -1,26 +1,26 @@
-Code,Title,Description
-itHasBeenGuiltyOfSeriousMisrepresentationInSupplyingTheInformationRequiredForTheVerificationOfTheAbsenceOfGroundsForExclusionOrTheFulfilmentOfTheSelectionCriteria,It has been guilty of serious misrepresentation in supplying the information required for the verification of the absence of grounds for exclusion or the fulfilment of the selection criteria,Applicable to ESPD Section III C Exclusion Grounds Misinterpretation
-itHasWithheldSuchInformation,It has withheld such information,Applicable to ESPD Section III C Exclusion Grounds Misinterpretation
-itHasNotBeenAbleWithoutDelayToSubmitTheSupportingDocumentsRequiredByAContractingAuthorityOrContractingEntity,It has not been able without delay to submit the supporting documents required by a contracting authority or contracting entity,Applicable to ESPD Section III C Exclusion Grounds Misinterpretation
-country,Country,Applicable to ESPD Section III B Exclusion Grounds Payment of taxes or Payment of social security contributions
-memberState,Member State,Applicable to ESPD Section III B Exclusion Grounds Payment of taxes or Payment of social security contributions
-technician,Technician,Applicable to ESPD Section IV Selection Criteria Pesrons
-technicalBody,Technical Body,Applicable to ESPD Section IV Selection Criteria Pesrons
-generalYearlyTurnoverForBidder,General Yearly Turnover For Bidder,Information on Turnover for bidder only applicable to generalYearlyTurnover criterion
-generalYearlyTurnoverForJVCA,General Yearly Turnover For JVCA,Information on Turnover for JVCA only applicable to generalYearlyTurnover criterion
-financialInformationActualForPreviousYears,Financial Information Actual For Previous Years,Applicable for otherEconomicOrFinancialRequirements criterion
-financialInformationProjectedForTheNextTwoYears,Financial Information Projected For The Next Two Years,Applicable for otherEconomicOrFinancialRequirements criterion
-setupOfEconomicOperatorGeneral,Setup Of Economic Operator - General,Applicable to setUpOfEconomicOperator criterion
-informationOnManagerailStaff,Information On Managerail Staff,Applicable to numberOfManagerialStaff criterion
-candidate,Candidate,Applicable to averageAnnualManpower criterion
-employer,Employer,Applicable to averageAnnualManpower criterion
-educationalQualifications,Educational Qualifications,Applicable to educationalAndProfessionalQualifications criterion
-professionalQualifications,Professional Qualifications,Applicable to educationalAndProfessionalQualifications criterion
-equipmentCapacity,Equipment Capacity,Applicable to toolsPlantOrTechnicalEquipment criterion
-manufacturingCapacity,Manufacturing Capacity,Applicable to toolsPlantOrTechnicalEquipment criterion
-forWorksContractsPerformanceOfWorksOfTheSpecifiedTypeOfBidder,For Works Contracts: Performance Of Works Of The Specified Type Of Bidder,Applicable to performanceOfTheSpecifiedType criterion
-forSupplyContractsPerformanceOfDeliveriesOfTheSpecifiedTypeOfBidder,For Supply Contracts: Performance Of Deliveries Of The Specified Type Of Bidder,Applicable to performanceOfTheSpecifiedType criterion
-forServiceContractsPerformanceOfServicesOfTheSpecifiedTypeOfBidder,For Service Contracts: Performance Of Services Of The Specified Type Of Bidder,Applicable to performanceOfTheSpecifiedType criterion
-forWorksContractsPerformanceOfWorksOfTheSpecifiedTypeOfJVCA,For Works Contracts: Performance Of Works Of The Specified Type Of JVCA,Applicable to performanceOfTheSpecifiedType criterion
-forSupplyContractsPerformanceOfDeliveriesOfTheSpecifiedTypeOfJVCA,For Supply Contracts: Performance Of Deliveries Of The Specified Type Of JVCA,Applicable to performanceOfTheSpecifiedType criterion
-forServiceContractsPerformanceOfServicesOfTheSpecifiedTypeOfJVCA,For Service Contracts: Performance Of Services Of The Specified Type Of JVCA,Applicable to performanceOfTheSpecifiedType criterion
+Code,Title,Description\n
+itHasBeenGuiltyOfSeriousMisrepresentationInSupplyingTheInformationRequiredForTheVerificationOfTheAbsenceOfGroundsForExclusionOrTheFulfilmentOfTheSelectionCriteria,It has been guilty of serious misrepresentation in supplying the information required for the verification of the absence of grounds for exclusion or the fulfilment of the selection criteria,Applicable to ESPD Section III C Exclusion Grounds Misinterpretation\n
+itHasWithheldSuchInformation,It has withheld such information,Applicable to ESPD Section III C Exclusion Grounds Misinterpretation\n
+itHasNotBeenAbleWithoutDelayToSubmitTheSupportingDocumentsRequiredByAContractingAuthorityOrContractingEntity,It has not been able without delay to submit the supporting documents required by a contracting authority or contracting entity,Applicable to ESPD Section III C Exclusion Grounds Misinterpretation\n
+country,Country,Applicable to ESPD Section III B Exclusion Grounds Payment of taxes or Payment of social security contributions\n
+memberState,Member State,Applicable to ESPD Section III B Exclusion Grounds Payment of taxes or Payment of social security contributions\n
+technician,Technician,Applicable to ESPD Section IV Selection Criteria Pesrons\n
+technicalBody,Technical Body,Applicable to ESPD Section IV Selection Criteria Pesrons\n
+generalYearlyTurnoverForBidder,General Yearly Turnover For Bidder,Information on Turnover for bidder only applicable to generalYearlyTurnover criterion\n
+generalYearlyTurnoverForJVCA,General Yearly Turnover For JVCA,Information on Turnover for JVCA only applicable to generalYearlyTurnover criterion\n
+financialInformationActualForPreviousYears,Financial Information Actual For Previous Years,Applicable for otherEconomicOrFinancialRequirements criterion\n
+financialInformationProjectedForTheNextTwoYears,Financial Information Projected For The Next Two Years,Applicable for otherEconomicOrFinancialRequirements criterion\n
+setupOfEconomicOperatorGeneral,Setup Of Economic Operator - General,Applicable to setUpOfEconomicOperator criterion\n
+informationOnManagerailStaff,Information On Managerail Staff,Applicable to numberOfManagerialStaff criterion\n
+candidate,Candidate,Applicable to averageAnnualManpower criterion\n
+employer,Employer,Applicable to averageAnnualManpower criterion\n
+educationalQualifications,Educational Qualifications,Applicable to educationalAndProfessionalQualifications criterion\n
+professionalQualifications,Professional Qualifications,Applicable to educationalAndProfessionalQualifications criterion\n
+equipmentCapacity,Equipment Capacity,Applicable to toolsPlantOrTechnicalEquipment criterion\n
+manufacturingCapacity,Manufacturing Capacity,Applicable to toolsPlantOrTechnicalEquipment criterion\n
+forWorksContractsPerformanceOfWorksOfTheSpecifiedTypeOfBidder,For Works Contracts: Performance Of Works Of The Specified Type Of Bidder,Applicable to performanceOfTheSpecifiedType criterion\n
+forSupplyContractsPerformanceOfDeliveriesOfTheSpecifiedTypeOfBidder,For Supply Contracts: Performance Of Deliveries Of The Specified Type Of Bidder,Applicable to performanceOfTheSpecifiedType criterion\n
+forServiceContractsPerformanceOfServicesOfTheSpecifiedTypeOfBidder,For Service Contracts: Performance Of Services Of The Specified Type Of Bidder,Applicable to performanceOfTheSpecifiedType criterion\n
+forWorksContractsPerformanceOfWorksOfTheSpecifiedTypeOfJVCA,For Works Contracts: Performance Of Works Of The Specified Type Of JVCA,Applicable to performanceOfTheSpecifiedType criterion\n
+forSupplyContractsPerformanceOfDeliveriesOfTheSpecifiedTypeOfJVCA,For Supply Contracts: Performance Of Deliveries Of The Specified Type Of JVCA,Applicable to performanceOfTheSpecifiedType criterion\n
+forServiceContractsPerformanceOfServicesOfTheSpecifiedTypeOfJVCA,For Service Contracts: Performance Of Services Of The Specified Type Of JVCA,Applicable to performanceOfTheSpecifiedType criterion\n
