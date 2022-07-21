@@ -1,7 +1,7 @@
-Code,Title,Description
-string,String,The requirement response must be of type string
-date-time,Date-time,The requirement response must be of type date-time (ISO8601)
-number,Number,The requirement response must be of type number i.e. a floating point or whole number
-integer,Integer,The requirement response must be of type integer
-boolean,Boolean,The requirement response must be of type boolean
-value,Value,The requirement response must be of type value object
+Code,Title,Description\n
+string,String,The requirement response must be of type string\n
+date-time,Date-time,The requirement response must be of type date-time (ISO8601)\n
+number,Number,The requirement response must be of type number i.e. a floating point or whole number\n
+integer,Integer,The requirement response must be of type integer\n
+boolean,Boolean,The requirement response must be of type boolean\n
+value,Value,The requirement response must be of type value object\n
